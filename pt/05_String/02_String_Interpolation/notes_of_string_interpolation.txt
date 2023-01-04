@@ -1,0 +1,20 @@
+According to string interpolation 
+__________________________________
+
+ Rule 1 :-
+ Inside a double Quote you can't use a double Quote
+ 
+ Rule 2 :-
+ Inside a Single Quote you can't use a Single Quote
+
+ Rule 3 :-
+ Inside double Quote you can use single and inside Quote and
+ Inside single Quote you can use double and inside Quote and
+
+ Rule 4 :- 
+ If you wnt to use double quote into double Quote then you have to 
+ write it in this way -> echo 'Ram got " ' . 43 . ' " in english ' ;
+ or
+ write it in this way -> echo "Ram got ' " . 43 . " ' in english " ;
+
+ 
