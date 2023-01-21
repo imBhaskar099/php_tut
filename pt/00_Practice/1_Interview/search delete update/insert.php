@@ -31,6 +31,10 @@ if(!$con)
         Fees: <input type="number" name="fees"><br>
         Email: <input type="text" name="email"><br>
         <input type="submit" name="reg" value="Sumbit here">
+       <button> <a href="delete.php"> Click Here</a></button>
+
+        <!-- <input type="submit"  href="delete.php" name="sub" value="Click here to reg"> -->
+
     </form>
 </body> 
 </html>
